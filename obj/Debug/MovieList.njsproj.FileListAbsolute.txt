@@ -1,0 +1,2 @@
+c:\users\dell 314\documents\visual studio 2017\Projects\MovieList\MovieList\obj\Debug\MovieList.njsprojResolveAssemblyReference.cache
+c:\users\dell 314\documents\visual studio 2017\Projects\MovieList\MovieList\bin\Microsoft.NodejsTools.WebRole.dll

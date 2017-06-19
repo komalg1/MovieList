@@ -1,0 +1,14 @@
+{
+  "name": "movie-list",
+  "version": "0.0.0",
+  "description": "MovieList",
+  "main": "server.js",
+  "author": {
+    "name": "KG"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongodb": "^2.2.28",
+    "vash": "^0.12.2"
+  }
+}
